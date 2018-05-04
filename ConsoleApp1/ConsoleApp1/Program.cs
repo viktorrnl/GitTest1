@@ -14,6 +14,7 @@ namespace ConsoleApp1
             // Another edit in github
             // Edit from visual studio
             // Code to call feature 1
+            // Code to call feature 3
         }
     }
 }
